@@ -19,7 +19,7 @@ public class FutureClass {
             return "Completed";
 
 
-        });     
+        });
 
         try {
             while (!future.isDone()){
